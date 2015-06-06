@@ -1,5 +1,5 @@
 # is-cuid
-Does the value look like a cuid?
+Does the value look like a [cuid](https://www.npmjs.com/package/cuid)?
 
 # var isCuid = require('is-cuid')
 
