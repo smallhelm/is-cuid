@@ -1,6 +1,11 @@
 # is-cuid
 Does the value look like a cuid?
 
+# var isCuid = require('is-cuid')
+
+# isCuid(v)
+returns true or false
+
 # License
 
 The MIT License (MIT)

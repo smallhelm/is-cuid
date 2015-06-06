@@ -1,0 +1,33 @@
+{
+  "name": "is-cuid",
+  "version": "1.0.0",
+  "description": "Does the value look like a cuid?",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node tests.js | tap-dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallhelm/is-cuid.git"
+  },
+  "keywords": [
+    "cuid"
+  ],
+  "author": "smallhelm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallhelm/is-cuid/issues"
+  },
+  "homepage": "https://github.com/smallhelm/is-cuid#readme",
+  "devDependencies": {
+    "cuid": "1.2.5",
+    "tap-dot": "1.0.0",
+    "tape": "4.0.0"
+  },
+  "dependencies": {
+    "x-is-string": "0.1.0"
+  }
+}
