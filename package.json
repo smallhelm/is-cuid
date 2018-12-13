@@ -1,6 +1,6 @@
 {
   "name": "is-cuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Does the value look like a cuid?",
   "main": "index.js",
   "files": [
